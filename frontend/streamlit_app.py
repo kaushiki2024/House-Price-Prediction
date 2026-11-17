@@ -40,7 +40,7 @@ if st.button("Predict House Price"):
     }
 
     response = requests.post(
-        "http://127.0.0.1:8000/predict",
+        "https://house-price-prediction-api-7wp7.onrender.com/predict",
         json=data
     )
 
