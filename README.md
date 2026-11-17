@@ -2,6 +2,14 @@
 
 A Machine Learning project that predicts median house values using the California Housing Dataset. The project includes Exploratory Data Analysis, data preprocessing, model training, model evaluation, and a web application built using FastAPI and Streamlit.
 
+🌐 Live Application
+
+Try the deployed application: **[California House Insights](https://calihouseinsights.streamlit.app/)**
+
+The application allows users to enter eight housing-related features and receive an estimated house price using the trained Random Forest model.
+
+Technologies: Python, Scikit-learn, FastAPI, Streamlit, Render.
+
 ## 📌 Project Overview
 
 The objective of this project is to build a regression model that predicts house prices based on different housing and demographic features.
